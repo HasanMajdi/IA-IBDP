@@ -1,3 +1,9 @@
+**Email sent by the Developer with Success Criteria:** 
+
+![IA-IBDP](developerEmail.png) 
+
+___
+
 | No. | Success Criteria                                                                             |
 |:---:|----------------------------------------------------------------------------------------------|
 | 1   | The system is convenient and easy to use.                                                    |
@@ -5,3 +11,8 @@
 | 3   | The system should be able to identify if the lights in the designated room is on.            |
 | 4   | When lights are forgotten on (After 9:45 PM) - System should notify the team by E-mail.      |
 | 5   | Documentation should be provided with the system.                                            |
+
+
+**confirmation Email recived from the client agreeing on the Success Criteria:**
+
+![IA-IBDP](clientEmail.png) 
