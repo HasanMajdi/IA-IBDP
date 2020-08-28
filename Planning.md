@@ -29,3 +29,14 @@ The system is **legally feasible.** There are no regulations against any of the 
 The system is **operationally feasible.** This system will not cause any conflicts with any other operations - it can be placed anywhere and does not require any software connections to be ran (except the first set-up). 
 
 The system is **well scheduled**. It will take about two months to be developed. Time is needed to research about Arduino (Hardware & Software) and Wifi Module also to learn how to send E-mails by Arduino - There needs to be meetings with the client. As it is an Internal Assessment by IB, We will be following a schedule provided by the Teacher of Computer Science. 
+
+### Success Criteria
+
+| No. | Success Criteria                                                                             |
+|:---:|----------------------------------------------------------------------------------------------|
+| 1   | The system is convenient and easy to use.                                                    |
+| 2   | The system is not connected to a computer nor plugged to a socket. (9V Battery will be used) |
+| 3   | The system should be able to identify if the lights in the designated room is on.            |
+| 4   | When lights are forgotten on (After 9:45 PM) - System should notify the team by E-mail.      |
+| 5   | Documentation should be provided with the system.                                            |
+
