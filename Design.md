@@ -6,4 +6,4 @@
 
 **2 The Flow diagram of the code checking the light sensor. **
 
-![IA-IBDP](flow1.png)
+![IA-IBDP](Flow1.png)
