@@ -21,8 +21,7 @@ In this **Internal Assessment**, I will be Developing a notification system for 
 
 The notification system successfully passes the TELOS feasibility:
 
-The system is **technically feasible.** I will be using Arduino Uno/Nano to make the system happen, both the hardware and software part - Arduino 
-will allow me to plug sensors and connect to wifi in order to notify the team responsible for the locking up. 
+The system is **technically feasible.** I will be using a Rasberry Pi to make the system happen, both the hardware and software part - Rasberry Pi will allow me to plug sensors and connect to wifi in order to notify the team responsible for the locking up. 
 
 The system is **economically feasible.** The developing tools are availiable and not needed to be paid - also the user would be able to use it without paying
 since internet is avaliable at the location of use. 
@@ -31,14 +30,14 @@ The system is **legally feasible.** There are no regulations against any of the 
 
 The system is **operationally feasible.** This system will not cause any conflicts with any other operations - it can be placed anywhere and does not require any software connections to be ran (except the first set-up). 
 
-The system is **well scheduled**. It will take about two months to be developed. Time is needed to research about Arduino (Hardware & Software) and Wifi Module also to learn how to send E-mails by Arduino - There needs to be meetings with the client. As it is an Internal Assessment by IB, We will be following a schedule provided by the Teacher of Computer Science. 
+The system is **well scheduled**. It will take about two months to be developed. Time is needed to research about Rasberry Pi (Hardware & Software) and also to learn how to create a suatbale databse - There needs to be meetings with the client. As it is an Internal Assessment by IB, We will be following a schedule provided by the Teacher of Computer Science. 
 
 ### Success Criteria
 
 | No. | Success Criteria                                                                             |
 |:---:|----------------------------------------------------------------------------------------------|
 | 1   | The system is convenient and easy to use.                                                    |
-| 2   | The system is not connected to a computer nor plugged to a socket. (9V Battery will be used) |
+| 2   | The system is not connected directley to a computer nor plugged to a socket. (9V Battery will be used) |
 | 3   | The system should be able to identify if the lights in the designated room is on.            |
 | 4   | When lights are forgotten on (After 9:45 PM) - System should notify the team by E-mail.      |
 | 5   | Documentation should be provided with the system.                                            |
