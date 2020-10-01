@@ -2,4 +2,4 @@
 The Internal assessment repository for ComSci IBDP 
 
 
-![IA-IBDP](Cover.png)
+![IA-IBDP](cover.png)
