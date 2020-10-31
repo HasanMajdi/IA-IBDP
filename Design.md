@@ -21,4 +21,10 @@ Here is the home page for the Web-app, the user will be able to check if the lig
 each room is represented through an item, the small gym is the weights and the main cort is a volleyball, the equipment room is a mat. and when hovering at an item
 either ON or OFF will turn Yellow to show that its statu. 
 
- ![IA-IBDP](Lockup_login(1).png)
+ ![IA-IBDP](Lockup_login1.png)
+ 
+ ### History Page: 
+ The user is able to check the history of the lights up to a certin date, status will be listed in a table. 
+ 
+  ![IA-IBDP](Lockup_login2.png)
+
